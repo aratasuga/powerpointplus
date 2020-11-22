@@ -783,7 +783,8 @@ a {
 }
 
 .footer .arrow img{
-  width: 60%;
+  width: 90%;
+  padding-right:28px;
 }
 
 /* works.html */
