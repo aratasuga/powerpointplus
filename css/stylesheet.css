@@ -184,6 +184,14 @@ a {
   zoom:0.8;
 }
 
+.arrow{
+ margin-top: 60vh;
+}
+
+.arrow img{
+ width: 75px;
+}
+
 .win .side-menu li a{
   /* Windows (全バージョン)のみ */
   font-family: Futura, 'Century Gothic';
