@@ -454,6 +454,13 @@ a {
   width: 30%;
 }
 
+@media (max-width: 800px) {
+  .image-contact img{
+  width: 50%;
+}
+}
+
+
 .title img{
   width: 24%;
 }
