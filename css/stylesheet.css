@@ -448,6 +448,12 @@ a {
   width: 24%;
 }
 
+img .image-contact{
+  width: 30%;
+}
+
+
+
 @media (max-width: 800px) {
   .title img{
     width:40%;
