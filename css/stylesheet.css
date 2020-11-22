@@ -299,7 +299,7 @@ a {
 @media (max-width: 800px) {
   .copy-container{
     text-align: center;
-    padding-top: 100px;
+    padding-top: 80px;
     width: 100%;
   }
 }
