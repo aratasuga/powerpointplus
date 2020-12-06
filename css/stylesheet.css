@@ -680,6 +680,7 @@ a {
 .button-container{
   text-align: center;
   padding-top: 50px;
+  padding-bottom: 50px;
 }
 
 .button-container p{
